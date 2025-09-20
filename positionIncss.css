@@ -1,0 +1,46 @@
+
+<!--static-->
+div{
+    position:static;
+    color: white;
+    background-color: black;
+    border: 1px solid aqua; 
+}
+<!--Relative-->
+/*p{
+    position:relative;
+    color: white;
+    background-color: black;
+    border: 1px solid aqua; 
+    top: 15px;
+    left: 10px;
+}
+<!--Fixed-->
+h1{
+    position:fixed;
+    color: white;
+    background-color: black;
+    border: 1px solid aqua; 
+    top: 15px;
+    left: 10px;
+}
+<!--Absolute-->
+#parent{
+    position:relative;
+    height: 250px;
+    width: 250px;
+    border: 2px dashed black;
+
+}
+.position{ 
+        position: absolute;
+         color: white;
+        background-color: black;
+        border: 1px solid aqua; 
+        top: 15px;
+        left: 10px;
+        right: 0;
+        bottom: 0;
+
+    }
+}*/

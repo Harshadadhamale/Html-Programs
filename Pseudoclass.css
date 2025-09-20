@@ -1,0 +1,28 @@
+button:hover{
+
+    color: aqua;
+    background-color: brown;
+    cursor: pointer;
+}
+button:active{
+    border:10px solid red
+    
+}
+button:focus{
+    background-color: pink;
+    color:white;
+}
+
+
+a:visited{
+    color:greenyellow;
+
+}
+span{
+    padding: 8px;
+    margin: 8px;
+    background-color: pink;
+}
+span:nth-child(even){
+    background-color: white;
+}

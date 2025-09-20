@@ -1,0 +1,46 @@
+/*Element selector*/
+/*
+h2{
+    color: aqua;
+    background-color: black;
+}
+p{
+    color: blueviolet;
+    background-color: wheat;
+}*/
+/*Element selector list*/
+/*h2,p{
+
+color:blueviolet;
+background-color: yellow;
+}*/
+/*Universal Selector */
+/* *{
+color: aquamarine;
+border: 2px dotted green;
+background-color: red;
+}*/
+/*Id selector
+#h2count3{
+    color: aquamarine;
+    border: 2px dotted green;
+    background-color: red;  
+}*/
+/*class selector
+.h2ClassSelector{
+    color:blueviolet;
+    background-color: yellow;
+    border: 2px solid blue;
+    border-radius: 10%;
+} */
+ /*Desendant selector
+ li a{
+    color: aliceblue;
+    background-color: blue;
+
+ }*/
+
+ h4{
+    border: 2px solid black;
+    padding-left: 10px;
+ }

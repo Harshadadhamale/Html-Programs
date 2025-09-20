@@ -1,0 +1,41 @@
+/*.parent{
+    background-color: black;
+    display: flex;
+    flex-direction: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    height:100px;
+    width: 100px;
+    background-color: white;
+    border: 1px solid yellowgreen;
+    flex: 2;
+     margin: 10px;
+     justify-content: center;
+}
+.demodiv{
+    background-color: blueviolet;
+    display: flex;
+}*/
+
+button{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    transition-delay: 250ms;
+    transition-property: background-color color;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    
+
+}
+button:hover{
+    background-color: aqua;
+    color:black;
+    cursor: pointer;
+}
